@@ -1,4 +1,9 @@
 /*
+ *  This program is based on the program developed by Stanford University for the Hapkit
+ *  to teach the course Introduction to Haptics.
+ *  (https://lagunita.stanford.edu/courses/SelfPaced/Haptics/2014/about)
+ *  We want to thank Stanford University for this program and the course.
+ *
  * ---------------------------------------------------------------------------------------
  * CONTROL TESTING OF THE SLAVE HAPTIC PADDLE
  * ---------------------------------------------------------------------------------------
